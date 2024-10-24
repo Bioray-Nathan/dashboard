@@ -1,8 +1,9 @@
 # dashboard
 
-Hell Git
+Hello Git
 
 git add .
+
 git commit -m "testing"
 
 git push

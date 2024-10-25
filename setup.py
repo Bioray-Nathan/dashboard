@@ -22,8 +22,6 @@ data = load_data(10000)
 # Notify the reader that the data was successfully loaded.
 data_load_state.text('Loading data...done!')
 
-data_load_state.text("Done! (using st.cache_data)")
-def load_data(nrows):
 
 st.subheader('Raw data')
 st.write(data)
